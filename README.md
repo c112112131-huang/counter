@@ -1,1 +1,1 @@
-# counter
+新增兩個旗標在Counter1和Counter2
